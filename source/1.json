@@ -1,0 +1,9 @@
+{
+    "servers": [
+        {
+            "name": "SideStore1",
+            "address": "https://anisette-v3-server-c1ic.onrender.com"
+        },
+       
+    ]
+}
